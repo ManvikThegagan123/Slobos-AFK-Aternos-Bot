@@ -9,7 +9,7 @@
     "ip": "sigmaboialphawolf.aternos.me",
     "port": 53850,
     "version": "1.21.1",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
